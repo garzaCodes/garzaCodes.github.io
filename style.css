@@ -2,6 +2,7 @@
 
 body {
   font-family: "Source Sans Pro", sans-serif;
+  text-align: center;
   background: black;
   color: white;
 }
@@ -31,12 +32,8 @@ header img {
   border-radius: 50%;
 }
 
-main {
-  text-align: center;
-}
 
 main p {
-  max-width: 90%;
   margin: 0 auto 30px;
 }
 
