@@ -71,6 +71,8 @@ h3.section-header {
 @media only screen and (max-width: 900px) {
   body {
     overflow-y: auto;
+    overflow-x: hidden;
+    width: 100vw;
   }
   .btn {
     width: auto;
