@@ -22,7 +22,7 @@ header h1 {
 
 header h1 span {
   display: inline-block;
-  border-bottom: 1px solid orange;
+  border-bottom: 1px solid #4DFF67;
 }
 
 header h3 {
@@ -50,12 +50,12 @@ main ul {
   text-decoration: none;
   background: none;
   padding: 10px;
-  color: orange;
+  color: #4DFF67;
 }
 
 .btn:hover {
   color: white;
-  background: orange;
+  background: #4DFF67;
   cursor: pointer;
 }
 
@@ -65,7 +65,7 @@ main ul {
 }
 
 h3.section-header {
-  color: orange;
+  color: #4DFF67;
 }
 
 @media only screen and (max-width: 900px) {
